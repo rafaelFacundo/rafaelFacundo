@@ -1,5 +1,8 @@
-### Hi there 👋
+### Good morning, good afternoon and good night my comrade, wellcome to my github 👋
 
+  I'm a computer science student from Brazil, current in 5th semester, I have interest in Web development, mobile development and I really want to do something related to sports, like image processing, data analysis, Iot, etc.
+
+  
 <!--
 **rafaelFacundo/rafaelFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
