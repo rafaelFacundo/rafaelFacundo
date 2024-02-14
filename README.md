@@ -14,4 +14,4 @@
 
   This is my latest project. It's an app for a fictional bank that I created, MuBank. It's a very simple application, only featuring bank transfers. For the frontend, I used React Native and some auxiliary libraries like Axios, Redux, and i18n, the latter for translating the app's texts into multiple languages. On the backend, I used Node.js, Express, and Sequelize. As for the database part, I created a relational database with PostgreSQL, using Docker to host the development database. I learned a lot from this project, and I'm eager to tackle even more complex projects from now on.
 
-<img width="300" height="300" src="./part1(1).gif">
+<img width="auto" height="auto" src="./part1(1).gif">
