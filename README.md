@@ -12,6 +12,10 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelFacundo&layout=compact&theme=dark)
 
-  This is my latest project. It's an app for a fictional bank that I created, MuBank. It's a very simple application, only featuring bank transfers. For the frontend, I used React Native and some auxiliary libraries like Axios, Redux, and i18n, the latter for translating the app's texts into multiple languages. On the backend, I used Node.js, Express, and Sequelize. As for the database part, I created a relational database with PostgreSQL, using Docker to host the development database. I learned a lot from this project, and I'm eager to tackle even more complex projects from now on. I DID NOT FINISH THIS APP AND STILL WORKING ON IT.
+  This is my latest mobile project. It's an app for a fictional bank that I created, MuBank. It's a very simple application, only featuring bank transfers. For the frontend, I used React Native and some auxiliary libraries like Axios, Redux, and i18n, the latter for translating the app's texts into multiple languages. On the backend, I used Node.js, Express, and Sequelize. As for the database part, I created a relational database with PostgreSQL, using Docker to host the development database. I learned a lot from this project, and I'm eager to tackle even more complex projects from now on. I DID NOT FINISH THIS APP AND STILL WORKING ON IT.
 
 <img width="auto" height="auto" src="./part1(1).gif">
+
+This is my current project that I am working on. I started recently, so it is still in the early stages, but basically, it is a website that consumes a movie API. When the user selects a movie, the frontend sends a request to the backend, which downloads the movie and streams the data in real time. I will not make the backend of the application available for legal reasons. I am doing it just for the knowledge.
+
+<img width="auto" height="auto" src="./site.png">
