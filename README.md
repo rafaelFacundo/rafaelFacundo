@@ -18,5 +18,7 @@ It's not just a simple video player, while watching a video, you can click on an
 
 The project was created to solve a real problem from my daily life and support my English studies. Before this, I had to pause the video, search for the word in a browser, and manually add it to Anki. With this app, the entire process takes just two clicks.
 
-You can see an example in the video below:
+You can see an example in the gifs below [or you can see this video on youtube](https://youtu.be/Yqw5q8FziyA?si=YKGfIMGsGq0hACUA):
+<img width="auto" height="auto" src="./videoPlayer2.gif">
 
+<img width="auto" height="auto" src="./videoPlayer3.gif">
