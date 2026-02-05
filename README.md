@@ -1,10 +1,13 @@
 ### Hi wellcome to my github 👋
 
-  I'm a computer science student from Brazil, current in 5th semester, I have interest in Web development, mobile development and I really want to do something related to sports and/or health care like apps, image processing, data analysis, Iot, etc.
+  I'm a Computer Science graduate from Brazil and a software developer with experience across web, mobile, and desktop applications. I enjoy building well-structured, high-performance solutions and care a lot about clean code and good engineering practices.
+
+Lately, my interests have been moving strongly toward computer vision, and image processing, especially applied to sports and real-world problems.
 
   
-  - 🔭 I’m currently working on a laboratory in my college where I am part of the team that develops an application in partnership with Lenovo and working in some personal projects
-  - 📫 How to reach me: rafaelfacundo63@gmail.com
+  🔭 Currently working as a developer in a university research lab, contributing to a large-scale application in partnership with Lenovo
+  🚀 Always building and refining personal projects, exploring new technologies and ideas
+  📫 How to reach me: rafaelfacundo63@gmail.com
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelFacundo&show_icons=true&theme=dark)
@@ -12,10 +15,12 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelFacundo&layout=compact&theme=dark)
 
-  This is my latest mobile project. It's an app for a fictional bank that I created, MuBank. It's a very simple application, only featuring bank transfers. For the frontend, I used React Native and some auxiliary libraries like Axios, Redux, and i18n, the latter for translating the app's texts into multiple languages. On the backend, I used Node.js, Express, and Sequelize. As for the database part, I created a relational database with PostgreSQL, using Docker to host the development database. I learned a lot from this project, and I'm eager to tackle even more complex projects from now on. I DID NOT FINISH THIS APP AND STILL WORKING ON IT.
+  This is my latest project: a desktop video player built with TypeScript, React, Electron, and Redux.
+
+It goes beyond a simple video player — while watching a video, you can click on any English word you don’t know to instantly see its meaning and save it directly to Anki for later review.
+
+The project was created to solve a real problem from my daily life and support my English studies. Previously, I had to pause the video, search for the word in a browser, and manually add it to Anki. With this app, the entire process takes just a couple of clicks.
+
+You can see an example in the video below:
 
 <img width="auto" height="auto" src="./part1(1).gif">
-
-This is my current project that I am working on. I started recently, so it is still in the early stages, but basically, it is a website that consumes a movie API. When the user selects a movie, the frontend sends a request to the backend, which downloads the movie and streams the data in real time. I will not make the backend of the application available for legal reasons. I am doing it just for the knowledge.
-
-<img width="auto" height="auto" src="./site.png">
