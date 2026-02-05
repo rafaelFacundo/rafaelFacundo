@@ -9,6 +9,9 @@ Lately, my interests have been moving strongly toward computer vision, and image
   - 🚀 Always building and refining personal projects, exploring new technologies and ideas
   - 📫 How to reach me: rafaelfacundo63@gmail.com
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rafaelFacundo)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+
   This is my latest project: a desktop video player built with TypeScript, React, Electron, and Redux.
 
 It's not just a simple video player, while watching a video, you can click on any English word you don’t know to instantly see its meaning and save it directly to Anki for later review.
