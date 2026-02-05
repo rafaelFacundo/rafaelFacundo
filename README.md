@@ -23,4 +23,4 @@ The project was created to solve a real problem from my daily life and support m
 
 You can see an example in the video below:
 
-<img width="auto" height="auto" src="./part1(1).gif">
+[▶ Watch demo video]([https://www.youtube.com/watch?v=Yqw5q8FziyA])
